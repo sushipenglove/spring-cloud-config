@@ -1,1 +1,2 @@
 desc: this is sand-config-client config
+amqp: spring cloud bus
